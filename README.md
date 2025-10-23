@@ -40,7 +40,7 @@ A modern task management application built with React, demonstrating component a
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/react-task-manager.git
+git clone 
 ```
 
 2. Navigate to project directory
