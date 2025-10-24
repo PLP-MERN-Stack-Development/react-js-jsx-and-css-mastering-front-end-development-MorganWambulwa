@@ -18,8 +18,8 @@ A modern task management application built with React, demonstrating component a
 * Optional: API search/filter and pagination
 
 ## 🚀 Live Demo
+[View Live Demo](https://react-js-jsx-and-css-mastering-fron-nine-sandy.vercel.app/)
 
-[View Live Demo]([https://your-deployed-app-url.com](https://react-js-jsx-and-css-mastering-fron-nine-sandy.vercel.app/))
 
 ## 💻 Tech Stack
 
