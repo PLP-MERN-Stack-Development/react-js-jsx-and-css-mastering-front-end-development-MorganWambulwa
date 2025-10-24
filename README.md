@@ -8,7 +8,7 @@ A modern task management application built with React, demonstrating component a
 
 ## 🌟 Features
 
-* Responsive design for mobile, tablet, and desktop views
+* Responsive design for mobile, tablet and desktop views
 * Dark/Light theme toggle using Context API
 * Task management with CRUD operations
 * Dynamic API data fetching and display
@@ -19,7 +19,7 @@ A modern task management application built with React, demonstrating component a
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-deployed-app-url.com)
+[View Live Demo]([https://your-deployed-app-url.com](https://react-js-jsx-and-css-mastering-fron-nine-sandy.vercel.app/))
 
 ## 💻 Tech Stack
 
@@ -39,9 +39,6 @@ A modern task management application built with React, demonstrating component a
 
 1. Clone the repository
 
-```bash
-git clone https://github.com/yourusername/react-task-manager.git
-```
 
 2. Navigate to project directory
 
@@ -62,13 +59,6 @@ npm run dev
 ```
 
 5. Open [http://localhost:5173](http://localhost:5173) in your browser
-
-6. Build production version (optional)
-
-```bash
-npm run build
-npm run preview
-```
 
 ## 📱 Screenshots
 
@@ -146,9 +136,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * [Tailwind CSS](https://tailwindcss.com)
 * [React Icons](https://react-icons.github.io/react-icons)
 * [JSON Placeholder](https://jsonplaceholder.typicode.com)
-
-## 📧 Contact
-
-Your Name - [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/react-task-manager](https://github.com/yourusername/react-task-manager)
